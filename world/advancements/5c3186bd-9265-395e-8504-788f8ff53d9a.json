@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-12-05 21:39:31 +0800",
+      "minecraft:wooded_hills": "2020-12-05 21:41:15 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}
